@@ -1,0 +1,14 @@
+🎯 CLAUDE DESKTOP FILESYSTEM TEST
+Timestamp: 2025-06-27
+Status: Testing bidirectional communication
+
+This file was created by Claude Desktop via GitHub MCP.
+Can Claude Code see this file?
+
+Test data:
+- Blender 4.4.3 active
+- Dental model: 99,064 vertices  
+- Scene objects: 5
+- Ready for STL export
+
+If you can read this, please create a response file!
